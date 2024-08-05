@@ -2,7 +2,7 @@
 # 1° Etapa 
 ## Introdução ao .NET, História, versões, usos
 
-### // Fundamentos .NET
+### Fundamentos .NET
 
 ### A introdução do .NET marcou um importante avanço na forma como aplicativos são desenvolvidos, implantados e executados, especialmente dentro do ecossistema Microsoft. Originalmente lançado no início dos anos 2000, o .NET Framework surgiu como uma plataforma abrangente para a construção de aplicações Windows, web e móveis, com foco na simplicidade, portabilidade e interoperabilidade. A evolução do .NET ao longo dos anos trouxe diversas melhorias, culminando no .NET Core e, eventualmente, no .NET 5 e .NET 6, que unificaram a plataforma sob uma abordagem de código aberto e multiplataforma.
 
